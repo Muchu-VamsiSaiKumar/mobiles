@@ -1,0 +1,30 @@
+.bing2{
+	background-image: url('https://img.freepik.com/free-vector/gradient-smartphone-isometric-technology-background_52683-6157.jpg?w=826&t=st=1672308692~exp=1672309292~hmac=2322f8901ff87fe41f643c39ed01852772a5d3bdbb15f24b6bac5a5087db0c20');
+	background-size: cover;
+	height: 200vh;
+}
+.mobilehead{
+	color: white;
+	font-family: 'Roboto';
+	font-weight: italic;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard{
+	background-color: white;
+	border-radius: 9px;
+	padding: 20px;
+	margin: 20px;
+
+}
+.brandsimg{width: 120px;
+	height: 120px;
+
+
+}
+.brandshead{
+	color: #041836;
+	font-family: 'Roboto';
+	font-weight: bold;
+	
+}

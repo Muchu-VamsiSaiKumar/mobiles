@@ -1,0 +1,41 @@
+.bgimg1{
+	background-image: url('https://img.freepik.com/free-vector/gradient-mobile-isometric-technology-background_52683-4499.jpg?w=2000'); 
+	background-size: cover;
+	height: 200vh;
+	
+
+}
+.headfirst{
+	color: white;
+	font-family: 'Roboto';
+	font-size: 30px;
+	font-weight: bold;
+	padding: 25px;
+	
+	
+
+}
+.cardlayout{
+	background-color: yellow;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius: 12px;
+	margin: 100px;
+	margin-top: 15px;
+
+
+}
+.cardcaon{
+padding: 20px;
+
+}
+.headsecond{
+	color: blue;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+}
+.paraline{
+	color: red;
+	font-family: Roboto;
+	font-size: 13px;
+}
